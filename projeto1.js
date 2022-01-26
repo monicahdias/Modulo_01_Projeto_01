@@ -56,6 +56,7 @@ while(resposta5 != 'sim' && resposta5 != 'nao'){
     i++;
 }
 console.log();
+console.log();
 if(i == 0){
     console.log('Você falha miseravelmente.');
 }
